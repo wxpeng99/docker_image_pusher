@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-onerahmet/openai-whisper-asr-webservice:lates
+onerahmet/openai-whisper-asr-webservice:latest
