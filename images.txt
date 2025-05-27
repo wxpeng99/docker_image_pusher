@@ -24,7 +24,7 @@
 #mariadb:10.11
 #memcached:1.6.18
 #redis:5.0.7
-seatable/seatable-developer:latest
-library/redis:5.0.7
-library/mariadb:10.11
-seatable/memcached:1.6.18
+#seatable/seatable-developer:latest
+#library/redis:5.0.7
+#library/mariadb:10.11
+library/memcached:1.6.18
