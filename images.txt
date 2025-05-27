@@ -18,4 +18,9 @@
 
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.2
 
-registry.k8s.io/ingress-nginx/controller:v1.11.5
+#registry.k8s.io/ingress-nginx/controller:v1.11.5
+
+seatable-developer:latest
+mariadb:10.11
+memcached:1.6.18
+redis:5.0.7
