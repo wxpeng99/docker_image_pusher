@@ -27,4 +27,6 @@
 #seatable/seatable-developer:latest
 #library/redis:5.0.7
 #library/mariadb:10.11
-library/memcached:1.6.18
+#library/memcached:1.6.18
+
+ emqx/emqx:5.5.1
