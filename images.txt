@@ -29,4 +29,6 @@
 #library/mariadb:10.11
 #library/memcached:1.6.18
 
- emqx/emqx:5.5.1
+ #emqx/emqx:5.5.1
+
+xuxueli/xxl-job-admin
