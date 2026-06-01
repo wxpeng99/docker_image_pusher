@@ -33,4 +33,4 @@
 
 #xuxueli/xxl-job-admin
 
-elasticsearch/elasticsearch:8.10.0
+docker.elastic.co/elasticsearch/elasticsearch:8.10.0
