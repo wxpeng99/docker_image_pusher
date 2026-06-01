@@ -31,4 +31,6 @@
 
  #emqx/emqx:5.5.1
 
-xuxueli/xxl-job-admin
+#xuxueli/xxl-job-admin
+
+elasticsearch:8.10.0
