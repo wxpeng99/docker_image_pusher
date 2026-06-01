@@ -33,4 +33,4 @@
 
 #xuxueli/xxl-job-admin
 
-elasticsearch:8.10.0
+elasticsearch/elasticsearch:8.10.0
